@@ -1,6 +1,6 @@
 only for homework
 
-my github:
+github:
 https://github.com/MartinYeung5/martinYeung-gear-academy
 
 20240714
