@@ -1,7 +1,7 @@
 only for homework
 
 my github:
-https://github.com/MartinYeung5/20240715_gear_homework
+https://github.com/MartinYeung5/martinYeung-gear-academy
 
 20240714
 Vara Network Testnet (wss://testnet.vara.network) address:
